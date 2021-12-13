@@ -1,0 +1,4 @@
+﻿  PatternCommand.cpp
+C:\Users\Нургиса\source\repos\PatternCommand\PatternCommand\Stereo.h(6): warning C4091: static : пропускается слева от "StereoState", когда ни одна переменная не объявлена
+C:\Users\Нургиса\source\repos\PatternCommand\PatternCommand\CellingFan.h(13): warning C4091: static : пропускается слева от "CellingFan::<unnamed-enum-HIGH>", когда ни одна переменная не объявлена
+  PatternCommand.vcxproj -> C:\Users\Нургиса\source\repos\PatternCommand\Debug\PatternCommand.exe
